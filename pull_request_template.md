@@ -18,7 +18,7 @@ Issue #32
 Correção de bugs
 ```
 
-O pipeline do [boards](https://github.com/Dulce-Work-Schedule/2018.1-Dulce_App#boards?repos=124531192,132006434,133160500,132006174,132006048,132005060,132774903,133529440) (*Kanban*),  
+O pipeline do [boards](https://github.com/fga-gpp-mds/2018.1-Dulce_App#boards?repos=124531192,132006434,133160500,132006174,132006048,132005060,132774903,133529440) (*Kanban*),  
 os revisores (se possivel) e  
 as labels (se necessário).
 
